@@ -33,7 +33,7 @@ def index():
         </script>
     </head>
     <body>
-        <textarea id="input-text" rows="5" cols="50" oninput="onInputChange()"></textarea>
+        <textarea id="input-text" style="height:400px;width:100%;resize:vertical" oninput="onInputChange()"></textarea>
         <p id="token-count">Token Count: 0</p>
     </body>
     </html>
