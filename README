@@ -6,4 +6,4 @@ OLD Requirements: flask flask-socketio
 Run OLD gui (not good): python3 main.py
 OLD Requirements: tkinter
 ---
-Rest of the code: mit
+Rest of the code: apache 2
