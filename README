@@ -1,0 +1,3 @@
+Tokenizer + tokenizer data from Tortoise TTS (https://github.com/neonbjb/tortoise-tts), Apache 2.0 license.
+Run: python3 main.py
+Requirements: tkinter
