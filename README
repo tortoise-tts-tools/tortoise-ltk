@@ -5,3 +5,5 @@ OLD Requirements: flask flask-socketio
 ---
 Run OLD gui (not good): python3 main.py
 OLD Requirements: tkinter
+---
+Rest of the code: CC BY NC SA 4
