@@ -31,4 +31,4 @@ for txt in sent:
         result += txt + ' '
 
 with open('long_res.txt', 'w') as f:
-    f.write(result)
+    f.write(result.strip())
