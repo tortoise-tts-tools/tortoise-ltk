@@ -1,7 +1,8 @@
 Tokenizer + tokenizer data from Tortoise TTS (https://github.com/neonbjb/tortoise-tts), Apache 2.0 license.
 === REALTIME TOKENIZER COUNTER ===
 Run web gui (not good): python3 app.py
-OLD Requirements: flask flask-socketio
+Requirements: flask flask-socketio
+Known issues: doesn't work if you have multiple browser windows open, as it sends updates to ALL clients
 ---
 Run OLD gui (not good): python3 main.py
 OLD Requirements: tkinter
